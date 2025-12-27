@@ -2,8 +2,6 @@
 #Range of numbers 0..99
 #How many 0 have it?
 
-import traceback
-
 test = [
 "L68",
 "L30",
